@@ -1,0 +1,10 @@
+*.pyc
+pycache/
+venv/
+*.egg-info/
+.env
+/models/*
+!/models/.gitkeep
+.vscode/
+.idea/
+.DS_Store
